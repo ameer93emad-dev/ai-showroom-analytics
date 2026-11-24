@@ -4,6 +4,15 @@ An **open-source, browser-based simulation** of retail showroom movement analyti
 
 > **Scope:** This is a synthetic simulation and visualization demo, **not** an operational AI video analytics or camera-tracking product. It does not accept video, recognize people, assign real salespeople, or provide camera integrations.
 
+
+[Open the live demo](https://ameer93emad-dev.github.io/ai-showroom-analytics/)
+
+![Screenshot of Showroom Pulse with demonstration data](preview.jpg)
+
+## Try the demo
+
+Switch the simulation to 4× and pause it after several visitors enter. Compare visits with cumulative dwell in the zone panel. The average dwell card uses completed journeys only.
+
 ## Features
 
 - Eight conceptual showroom zones with a live illustrative floor map
